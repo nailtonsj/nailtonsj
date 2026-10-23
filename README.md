@@ -2,9 +2,9 @@
 ---
 ## Sobre mim
 - Me chamo Nailton
-- Tenho 23 anos
+- Tenho 26 anos
 - Sou de Aracaju-SE 🏖
-- Curso Analise e Desenvolvimento de Sistemas. (Penúltimo Périodo)
+- Curso Analise e Desenvolvimento de Sistemas. 3/5
 - Sou Aluno da Origamid e OneBitCode
 - Estou focado no (Front-end) no momento, mas no futuro pretendo aprender (Back-end) e me tornar fullStack.
 - Falo inglês (intermediário) e português.
